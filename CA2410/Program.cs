@@ -10,10 +10,10 @@ namespace CA2410
     {
         static void Main(string[] args)
         {
-            int numero;
+            int numero1;
             int numero2;
             int total;
-            numero = 10;
+            numero1 = 10;
             numero2 = 20;
             total = numero + numero2;
             Console.WriteLine("Boa noite!");
